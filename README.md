@@ -28,10 +28,10 @@ In addition to development, I am also passionate about **teaching and mentoring*
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" />
 </a>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center; margin-top: 20px;">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50" style="background: none;"/>
+  <a href="https://angular.io">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30" style="background: none;"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" style="background: none;"/>
