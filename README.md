@@ -116,7 +116,8 @@ In addition to development, I am also passionate about **teaching and mentoring*
 
 <br/>
 
-<p align="center">
+<h3 align="left">🏆 achievements</h3>
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=mujtababaluch&theme=monokai&row=1&column=6" alt="mujtababaluch" />
 </p>
 
