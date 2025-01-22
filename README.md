@@ -30,11 +30,11 @@ In addition to development, I am also passionate about **teaching and mentoring*
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 20px;">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
 &nbsp;
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+   <a >
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
 &nbsp;
