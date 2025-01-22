@@ -117,9 +117,7 @@ In addition to development, I am also passionate about **teaching and mentoring*
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujtababaluch&show_icons=true&locale=en&layout=compact" alt="mujtababaluch" /></p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mujtababaluch&label=Profile%20views&color=0e75b6&style=flat" alt="mujtababaluch" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mujtababaluch&layout=compact" alt="mujtababaluch" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtababaluch&show_icons=true&locale=en" alt="mujtababaluch" /></p>
