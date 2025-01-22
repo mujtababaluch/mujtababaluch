@@ -14,8 +14,6 @@ My development approach is centered on **clean architecture**, **state managemen
 With a strong commitment to clean code principles, I focus on creating maintainable, efficient, and feature-rich applications.  
 In addition to development, I am also passionate about **teaching and mentoring**, helping students and developers succeed in the tech world.
 
----
-
 - 🔭 Developed and launched [**Jabchaho App**](https://play.google.com/store/apps/details?id=com.ezlifetech.jabchaho&pcampaignid=web_share) (consumer and rider apps for on-demand laundry service).  
 - 👨‍💻I’m currently working on **Flutter,.net, clean architecture,Getx**
 - 🌱 I’m currently learning **Bloc**  
