@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm MUJTABA</h1>
 <h3 align="center">Passionate Flutter Developer | Software Engineer | IT Instructor</h3>
+  <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mujtababaluch&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/mujtababaluch?label=Followers&style=social" alt="Followers" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujtababaluch" alt="mujtababaluch" /></a> </p>
+---
+
+### 🚀 About Me
+I am a **Flutter Developer** with expertise in building scalable, high-performance mobile applications.  
+My development approach is centered on **clean architecture**, **state management**, and delivering seamless user experiences.  
+
+With a strong commitment to clean code principles, I focus on creating maintainable, efficient, and feature-rich applications.  
+In addition to development, I am also passionate about **teaching and mentoring**, helping students and developers succeed in the tech world.
+
+---
 
 - 🔭Developed and launched [Jabchaho App](https://play.google.com/store/apps/details?id=com.ezlifetech.jabchaho&pcampaignid=web_share)
 
