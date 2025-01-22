@@ -115,9 +115,14 @@ In addition to development, I am also passionate about **teaching and mentoring*
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mujtababaluch&theme=monokai&row=1&column=6" alt="mujtababaluch" />
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujtababaluch&show_icons=true&locale=en&layout=compact" alt="mujtababaluch" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mujtababaluch&layout=compact" alt="mujtababaluch" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtababaluch&show_icons=true&locale=en" alt="mujtababaluch" /></p>
