@@ -85,7 +85,7 @@ In addition to development, I am also passionate about **teaching and mentoring*
   <a>
     <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
   &nbsp;
