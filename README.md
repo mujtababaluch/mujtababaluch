@@ -16,24 +16,11 @@ In addition to development, I am also passionate about **teaching and mentoring*
 
 ---
 
-
-- 🔭Developed and launched [Jabchaho App](https://play.google.com/store/apps/details?id=com.ezlifetech.jabchaho&pcampaignid=web_share)
-
-- 🌱 I’m currently learning **Bloc**
-
-- 👯I’m currently working on **Flutter,.net, clean architecture,Getx**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mujtababaluch](https://github.com/mujtababaluch)
-
+- 🔭 Developed and launched [**Jabchaho App**](https://play.google.com/store/apps/details?id=com.ezlifetech.jabchaho&pcampaignid=web_share) (consumer and rider apps for on-demand laundry service).  
+- 👨‍💻I’m currently working on **Flutter,.net, clean architecture,Getx**
+- 🌱 I’m currently learning **Bloc**  
 - 💬 Ask me about **Flutter, c#, react or any API related stuff**
-
 - 📫 How to reach me **mujtabakalmati@gmail.com**
-
-### 🏆 Achievements
-- Developed and launched [**Jabchaho App**](https://play.google.com/store/apps/details?id=com.ezlifetech.jabchaho&pcampaignid=web_share) (consumer and rider apps for on-demand laundry service).  
-- Guided students to **Top 5 rankings** in international tech competitions like Techwiz3 and Techwiz4.  
-- Recognized as a **Rising Star Faculty Member** by Aptech Pakistan for contributions to education and mentoring.  
-- Optimized app performance by reducing loading times by **70%** and enhancing real-time tracking.  
 
 --- 
 
