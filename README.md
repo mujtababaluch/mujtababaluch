@@ -23,12 +23,12 @@ In addition to development, I am also passionate about **teaching and mentoring*
 
 --- 
 
-<h3 align="left">### 🤝 Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mujtaba-baloch" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" />
 </a>
 
-<h3 align="left">>### 👨‍💻Languages and Tools:</h3>
+<h3 align="left">>👨‍💻Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin-top: 20px;">
   <a>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" border="0" style="background: none; outline: none;"/>
@@ -116,7 +116,7 @@ In addition to development, I am also passionate about **teaching and mentoring*
 
 <br/>
 
-<h3 align="left">🏆 achievements</h3>
+<h3 align="left">🏆 Achievements</h3>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=mujtababaluch&theme=monokai&row=1&column=6" alt="mujtababaluch" />
 </p>
