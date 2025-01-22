@@ -33,9 +33,9 @@ In addition to development, I am also passionate about **teaching and mentoring*
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" border="0" style="background: none; outline: none;"/>
-  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" border="0" style="background: none; outline: none;"/>
   </a>
